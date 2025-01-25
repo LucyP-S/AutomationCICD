@@ -14,6 +14,8 @@ import java.util.List;
 
 public class ErrorValidationsTest extends BaseTest {
 
+// new comments
+
     @Test(groups ="ErrorHandling", retryAnalyzer = Retry.class)
             public void LoginErrorMessage() throws IOException, InterruptedException {
 
